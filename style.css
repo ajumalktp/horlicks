@@ -1,0 +1,184 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    padding-top: 140px;
+}
+
+.first-logo{
+    width: 60%;
+    max-width: 220px;
+}
+
+.drop-one{
+    font-family: Poppins-Bold;
+    color: #001365;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.nutrigummies{
+    font-family: Poppins-Bold;
+    color: #001365;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+.item-one, .item-two{
+    font-family: Gotham-Book,sans-serif;
+    font-weight: 500;
+    color: #001365;
+}
+
+.card-2{
+    font-family: Gotham-Medium,sans-serif;
+    font-size: 1.375rem;
+    color: #02186e;
+    font-weight: 600;
+}
+
+.card-text{
+    font-family: Gotham-Medium,sans-serif;
+    color: #02186e;
+}
+
+.card-one-body{
+    color: #02186e;
+}
+
+.how-heading{
+    font-weight: 700;
+}
+
+.how-horlicks{
+    font-size: 1.25rem;
+}
+
+.btn{
+    border-color: #02186e;
+    font-weight: 600;
+    color: #02186e;
+}
+
+.card-button:hover{
+    color: #fff;
+    background: #02186e;
+}
+
+.how-imgs{
+    display: flex;
+}
+
+.foot{
+    margin-left: 0.4%;
+    margin-right: 0%;
+    background: #ebebeb;
+}
+
+.foot :hover{
+    text-decoration: none;
+}
+
+.f-head{
+    font-size: 1rem;
+    font-family: Gotham-Bold,sans-serif;
+    color: #001365;
+    font-weight: 600;
+}
+
+.f-links{
+    font-family: Gotham-Book,sans-serif;
+    color: #001365;
+    font-weight: 400;
+}
+
+.f-lines{
+    line-height: 1.8;
+}
+
+.foot-button{
+    font-family: Gotham-Bold,sans-serif;
+    color: #fff;
+    background: #001365;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 0 4px 4px 0;
+}
+
+.promo{
+    font-family: Gotham-Bold,sans-serif;
+    font-size: 0.7rem;
+    font-weight: 800;
+    opacity: 50%;
+    height: 2.5rem;
+    width: 4rem;
+    border: 1px solid black;
+    border-radius: 4px 0 0 4px;
+}
+
+.mail-submission{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.searchbar{
+    border: 1px solid;
+    border-radius: 50px;
+}
+
+.navbar-brand{
+    margin-right: 0%;
+}
+
+.flavors{
+    background-image: linear-gradient(90deg,#002d80,#0076bb);
+}
+
+.delicious{
+    font-family: Gotham-Bold,sans-serif;
+    color: #fff;
+    font-size: 2.25rem;
+    font-weight: 600;
+}
+
+.flavor-text{
+    margin-top: -38px;
+    font-size: 1.25rem;
+    font-family: Gotham-Book,sans-serif;
+    color: #fff;
+}
+
+.flavor-images{
+    display: flex;
+    justify-content: center;
+}
+
+.flav-img{
+    vertical-align: middle;
+    max-width: 75%;
+    min-width: 60%;
+}
+
+.flavor-button{
+    width: 90px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.flavor-button:hover{
+    background: #fff;
+    color: #02186e;
+}
+
+.img-b{
+    background: transparent;
+}
+
+.two-img{
+    display: flex;
+}
